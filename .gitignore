@@ -3,4 +3,12 @@ trustdesk_seed.db
 *.sqlite3
 __pycache__/
 .DS_Store
-
+.venv/
+__pycache__/
+*.pyc
+*.db
+.env
+node_modules/
+frontend/dist/
+problem_statement.md
+TrustDesk.pdf
