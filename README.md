@@ -175,11 +175,4 @@ Customer text and retrieved documents are untrusted. Requests to bypass identity
 
 ## GitHub submission
 
-```bash
-git init
-git add .
-git commit -m "Complete TrustDesk capstone implementation"
-git branch -M main
-git remote add origin <your-public-repository-url>
-git push -u origin main
-```
+
